@@ -5,3 +5,5 @@ This is another line as a test.
 
 git-demo
 
+Line of text specifically for dev branch. 
+
