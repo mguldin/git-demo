@@ -9,3 +9,5 @@ Line of text specifically for dev branch.
 
 Adding some lines for the dev branch. 
 
+Practice for a merge conflict. 
+
